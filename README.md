@@ -18,7 +18,7 @@
  #### * All Data
     * You will get the full details of customers (past and current). 
     
-   https://i.imgur.com/8QgUX7I.png
+   ![alt text](https://i.imgur.com/8QgUX7I.png)
     
   **There is still more you can explore!!** 
   
