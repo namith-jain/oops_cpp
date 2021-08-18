@@ -1,6 +1,10 @@
 # Object Oriented Programming Project.
+
+#### Overview of project
+   ![alt text](https://i.imgur.com/8QgUX7I.png)
+
 ### About the applications:
-#### Basically it is Car Rental Service provider application using CPP.
+#### Basically it is Car Rental Service provider application built using CPP. This will provide user to request car by providing his/her basic information and rents the car according to their age and type of car they selected. After they can return the car by paying the rental amount and can exit by giving feedback. 
  #### * Request
     * Can request a car using DL number of customers.
     * Customers with DL number starting digit 1 has a permit to drive Heavy Vehicles.
@@ -18,9 +22,7 @@
  #### * All Data
     * You will get the full details of customers (past and current). 
     
-    
- #### Overview of project
-   ![alt text](https://i.imgur.com/8QgUX7I.png)
+   
     
   **There is still more you can explore!!** 
   
@@ -29,7 +31,6 @@
   
   ### Future Work
   
-  This project is mainly focused on Object Oriented Programming but this can be made into real world use case by adding a database. For this we can use relational database           management system to store the data in a structured and organized way. For reference Entity Relationship Diagram (ER) is posted below. SQL is used to perform DDL, DML.
-  After populating or adding data to the database this can be further used to fetch specific data from database and can be used for analysis.
+  This project is mainly focused on Object Oriented Programming but this can be made into real world use case by adding a database. For this using relational database               management system to store the data in a structured and organized way is an efficent approach. For reference Entity Relationship Diagram (ER) is posted below. SQL is used to       perform DDL, DML. After populating or adding data to the database this can be further used to fetch specific data from database and can be used for analysis, eg: Analyzing which   type of car is most oftenly used by the customers, will help the company to add more cars of specific type to generate more profits. 
   
   **Thank You.**
