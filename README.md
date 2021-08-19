@@ -33,4 +33,7 @@
   
   This project is mainly focused on Object Oriented Programming but this can be made into real world use case by adding a database. For this using relational database               management system to store the data in a structured and organized way is an efficent approach. For reference Entity Relationship Diagram (ER) is posted below. SQL is used to       perform DDL, DML. After populating or adding data to the database this can be further used to fetch specific data from database and can be used for analysis, eg: Analyzing which   type of car is most oftenly used by the customers, will help the company to add more cars of specific type to generate more profits. 
   
+  Sample ER Diagram
+  [Imgur](https://i.imgur.com/gxcqmi3.png)
+  
   **Thank You.**
